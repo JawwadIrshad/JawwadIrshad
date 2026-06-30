@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Syed Muhammad Jawwad Irshad 👋
 
-<!--
-**JawwadIrshad/JawwadIrshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Backend Engineer
 
-Here are some ideas to get you started:
+I am a Python Backend Engineer passionate about building scalable backend applications, REST APIs, and AI-powered solutions. I enjoy solving real-world business challenges by developing reliable, maintainable, and efficient software that helps organizations automate workflows and improve data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Python Backend Engineer specializing in backend development and API design.
+- ⚡ Experienced in developing scalable backend services, REST APIs, and automation solutions.
+- 🌐 Built backend systems and data processing solutions for **30+ web platforms**.
+- 🤖 Experienced with AI integrations using OpenAI API and LangChain.
+- 📈 Passionate about writing clean, maintainable, and production-ready code.
+- 🌱 Continuously learning modern backend technologies and software engineering best practices.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Python
+- FastAPI
+- Django REST Framework
+- REST APIs
+- API Integration
+
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
+
+### AI & Automation
+- OpenAI API
+- LangChain
+- Selenium
+- Playwright
+- BeautifulSoup
+
+### Tools
+- Docker
+- Git
+- GitHub
+- Postman
+
+---
+
+## 💼 What I Build
+
+- Backend Applications
+- REST APIs
+- AI-Powered Applications
+- Web Scraping Solutions
+- Data Processing Pipelines
+- Backend Automation Systems
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn  
+https://linkedin.com/in/YOUR-LINKEDIN
+
+🌍 Portfolio  
+https://jawwadirshad.netlify.app
+
+📧 Email  
+YOUR_EMAIL@gmail.com
+
+---
+
+## 🎯 Career Goal
+
+Currently seeking opportunities as a **Python Backend Engineer** where I can contribute to building scalable backend systems, collaborate with experienced engineering teams, and continue growing in backend development and AI technologies.
+
+---
+⭐ Thanks for visiting my profile!
