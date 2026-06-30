@@ -60,13 +60,13 @@ I am a Python Backend Engineer passionate about building scalable backend applic
 ## 🌐 Connect With Me
 
 💼 LinkedIn  
-https://linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/jawwadirshad19/
 
 🌍 Portfolio  
 https://jawwadirshad.netlify.app
 
 📧 Email  
-YOUR_EMAIL@gmail.com
+jawwadirshad19@gmail.com
 
 ---
 
