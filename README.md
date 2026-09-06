@@ -110,8 +110,6 @@ A conversational patient-registration system integrating voice AI with a Python 
 
 `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Vapi` · `OpenAI`
 
-[View Repository →](https://github.com/JawwadIrshad/carecloud-patient-registration)
-
 ---
 
 ### GitHub Policy RAG Chatbot
