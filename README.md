@@ -1,125 +1,128 @@
 <div align="center">
 
-<img src="./assets/profile-card.svg" alt="Jawwad Irshad - Software Engineer" width="100%"/>
+# Syed Muhammad Jawwad Irshad
 
-<br/>
+### Software Engineer · Python · AI & Automation
 
-<a href="https://github.com/JawwadIrshad">
-<img src="https://img.shields.io/badge/GitHub-JawwadIrshad-111827?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/jawwadirshad/">
-<img src="https://img.shields.io/badge/LinkedIn-Jawwad%20Irshad-111827?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://jawwadirshad.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome" />
-</a>
+<p>
+  <a href="https://github.com/JawwadIrshad">
+    <img src="https://img.shields.io/badge/GitHub-JawwadIrshad-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jawwadirshad/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jawwad%20Irshad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jawwadirshad.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:jawwadirshad19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-<br/>
+---
 
-## `$ whoami`
+## About
 
-> Software Engineer focused on **Python backend development, AI-powered applications, API integration, and automation**.
+I am a **Software Engineer** focused on Python backend development, AI-powered applications, API integration, and automation.
 
-I build practical systems that connect APIs, process data, automate workflows, and use modern AI/LLM technologies to solve real-world problems.
+I enjoy building practical software that combines reliable backend systems with automation and modern AI technologies. My work includes REST APIs, web automation, data processing, LLM integrations, and database-driven applications.
 
-```python
-class Jawwad:
-    role = "Software Engineer"
-    focus = ["Python", "AI", "Backend", "Automation"]
-    building = ["APIs", "AI Applications", "RAG Systems", "Automation"]
-    open_to = ["Remote", "Freelance", "Relocation"]
-```
+- Building backend applications with **Python, FastAPI, Django REST Framework, and Flask**
+- Developing **AI and LLM-powered applications**
+- Working with **RAG, LangChain, and OpenAI APIs**
+- Building browser and workflow automation with **Selenium and Playwright**
+- Designing and integrating **REST APIs and third-party services**
+- Working with relational databases including **PostgreSQL and MySQL**
+- Interested in building scalable, maintainable, and practical software
 
 ---
 
-## `$ ls ./skills`
+## Tech Stack
 
-| Area | Technologies |
-|---|---|
-| **Backend** | Python, FastAPI, Django REST Framework, Flask, REST APIs |
-| **AI / LLM** | OpenAI API, LangChain, RAG, Embeddings, Vector Databases |
-| **Automation** | Selenium, Playwright, BeautifulSoup, Pandas |
-| **Testing** | Postman, API Testing, Functional Testing, Test Automation |
-| **Databases** | PostgreSQL, MySQL, SQLite |
-| **DevOps / Tools** | Docker, Git, GitHub |
-| **Web** | JavaScript, React, HTML, CSS |
-| **Commerce** | WooCommerce, API Integrations |
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+
+### AI & Data
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Automation & Testing
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
+
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
 ---
 
-## `$ ./projects --featured`
+## Featured Projects
 
-### `01` — CareCloud | Voice AI Patient Registration
+### CareCloud — Voice AI Patient Registration
 
-A voice-based patient intake system that collects patient information through natural conversation, validates the data, and stores it through a backend API.
+A voice-based patient registration system designed to collect patient information through natural conversation, validate the collected data, and integrate it with a backend database.
 
-**Python · FastAPI · PostgreSQL · Vapi · OpenAI**
+**Technologies:** Python · FastAPI · PostgreSQL · OpenAI · Vapi
 
-[View Repository](https://github.com/JawwadIrshad/carecloud-patient-registration) · [Live API](https://carecloud-patient-registration-production.up.railway.app) · [Swagger Docs](https://carecloud-patient-registration-production.up.railway.app/docs)
+[Repository](https://github.com/JawwadIrshad/carecloud-patient-registration) · [Live API](https://carecloud-patient-registration-production.up.railway.app) · [API Documentation](https://carecloud-patient-registration-production.up.railway.app/docs)
 
-### `02` — AI-Powered RAG Chatbot
+---
 
-A retrieval-augmented AI application designed to combine application-specific knowledge with LLM-powered responses.
+### AI-Powered RAG Chatbot
 
-**Python · FastAPI · RAG · LLM Integration**
+An AI application built around Retrieval-Augmented Generation, combining application-specific knowledge with LLM-based responses.
 
-### `03` — Restaurant Management System
+**Technologies:** Python · FastAPI · RAG · LangChain · LLM Integration
+
+---
+
+### Restaurant Management System
 
 A full-stack restaurant management application with a React frontend, Flask backend, REST APIs, and PostgreSQL database.
 
-**React · Flask · PostgreSQL · REST API**
-
-### `04` — WooCommerce Automation
-
-Python-based product data processing and browser/API automation solutions for WooCommerce stores.
-
-**Python · Selenium · Playwright · WooCommerce**
+**Technologies:** React · Flask · PostgreSQL · REST API
 
 ---
 
-## `$ git log --oneline`
+## What I Build
 
 ```text
-backend  →  APIs  →  automation  →  AI  →  better software
-
-Build it.
-Automate it.
-Make it intelligent.
-Ship it.
-```
-
----
-
-## `$ github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JawwadIrshad&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawwadIrshad&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=JawwadIrshad&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## `$ connect`
-
-```text
-Email      →  jawwadirshad19@gmail.com
-LinkedIn   →  linkedin.com/in/jawwadirshad
-GitHub     →  github.com/JawwadIrshad
-Portfolio  →  jawwadirshad.netlify.app
-```
-
-<div align="center">
-
-### `Thanks for visiting my profile.`
-
-**If you find something useful here, feel free to ⭐ a repository.**
-
-</div>
+Python Backend
+      │
+      ├── REST APIs
+      ├── Database Applications
+      ├── Third-Party Integrations
+      │
+      ├── Automation
+      │   ├── Selenium
+      │   ├── Playwright
+      │   └── Data Processing
+      │
+      └── AI Applications
+          ├── LLM Integration
+          ├── RAG
+          └── AI-powered Workflows
