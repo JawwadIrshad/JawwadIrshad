@@ -1,0 +1,68 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="620" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0B1020"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="cyan" x1="80" y1="100" x2="1110" y2="540" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE"/>
+    <stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect width="1200" height="620" rx="28" fill="url(#bg)"/>
+<rect x="28" y="28" width="1144" height="564" rx="22" stroke="#26324A" stroke-width="2"/>
+<rect x="28" y="28" width="1144" height="64" rx="22" fill="#151D30"/>
+<circle cx="66" cy="60" r="9" fill="#FF5F57"/>
+<circle cx="96" cy="60" r="9" fill="#FEBC2E"/>
+<circle cx="126" cy="60" r="9" fill="#28C840"/>
+<text x="164" y="67" fill="#94A3B8" font-family="monospace" font-size="19">jawwad@github: ~/profile</text>
+
+<!-- left illustration panel -->
+<rect x="60" y="120" width="430" height="430" rx="18" fill="#0A0F1C" stroke="#26324A"/>
+<text x="88" y="157" fill="#22D3EE" font-family="monospace" font-size="17">~/developer_profile</text>
+
+<!-- stylized developer portrait -->
+<g stroke="url(#cyan)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+  <path d="M175 475 C185 390 225 350 275 350 C325 350 365 390 375 475"/>
+  <path d="M218 350 C210 310 214 266 238 238 C260 211 292 208 317 226 C341 244 349 280 340 319"/>
+  <path d="M238 276 C255 267 270 264 287 266 C303 268 318 274 330 284"/>
+  <path d="M229 297 L258 301"/>
+  <path d="M299 301 L330 297"/>
+  <path d="M258 301 C266 294 276 294 284 301"/>
+  <path d="M285 301 C293 294 303 294 311 301"/>
+  <path d="M267 327 C278 334 291 334 302 327"/>
+  <path d="M224 371 L275 420 L326 371"/>
+  <path d="M224 371 L190 420"/>
+  <path d="M326 371 L360 420"/>
+  <path d="M190 420 L175 475"/>
+  <path d="M360 420 L375 475"/>
+  <path d="M240 398 L310 398"/>
+  <path d="M275 420 L275 475"/>
+</g>
+
+<!-- small code marks -->
+<g fill="#64748B" font-family="monospace" font-size="14">
+  <text x="88" y="505">01  Python / FastAPI</text>
+  <text x="88" y="528">02  AI / RAG / LLM</text>
+</g>
+
+<!-- right terminal content -->
+<rect x="525" y="120" width="615" height="430" rx="18" fill="#090D16" stroke="#26324A"/>
+<text x="553" y="158" fill="#64748B" font-family="monospace" font-size="15">README.md</text>
+
+<text x="553" y="203" fill="#22D3EE" font-family="monospace" font-size="27">Hi, I'm Jawwad Irshad</text>
+<text x="553" y="238" fill="#E2E8F0" font-family="monospace" font-size="19">Software Engineer</text>
+<text x="553" y="269" fill="#A78BFA" font-family="monospace" font-size="17">Python • AI • Automation</text>
+
+<text x="553" y="315" fill="#64748B" font-family="monospace" font-size="15">$ cat about.txt</text>
+<text x="553" y="344" fill="#CBD5E1" font-family="monospace" font-size="15">Building backend systems, AI apps,</text>
+<text x="553" y="368" fill="#CBD5E1" font-family="monospace" font-size="15">APIs and automation that solve</text>
+<text x="553" y="392" fill="#CBD5E1" font-family="monospace" font-size="15">real-world problems.</text>
+
+<text x="553" y="435" fill="#64748B" font-family="monospace" font-size="15">$ tech --stack</text>
+<text x="553" y="464" fill="#67E8F9" font-family="monospace" font-size="15">Python  FastAPI  Django  Flask</text>
+<text x="553" y="488" fill="#C4B5FD" font-family="monospace" font-size="15">OpenAI  RAG  Selenium  Playwright</text>
+<text x="553" y="512" fill="#93C5FD" font-family="monospace" font-size="15">PostgreSQL  Docker  REST APIs</text>
+</svg>
